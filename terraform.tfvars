@@ -1,2 +1,2 @@
 rootvolume = "50"
-datavolume = "70"
+datavolume = "80"
